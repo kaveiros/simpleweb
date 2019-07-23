@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "node": "^12.6.0"
   },
   "scripts": {
     "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/kaveiros/simpleweb.git"
   }
 }
